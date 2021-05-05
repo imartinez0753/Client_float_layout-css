@@ -8,6 +8,7 @@
 }
 
 body {
+  font-family: 'Courier New', Courier, monospace;
 }
 
 header {
@@ -21,12 +22,18 @@ section {
 }
 
 #left {
+  background-color: #30948D;
+  float: left;
 }
 
 #middle {
+  background-color: #9E1212;
+  
 }
 
 #right {
+  background-color:  #30948D;
+  float: right;
 }
 
 #full {
