@@ -19,6 +19,7 @@ header {
 }
 
 section {
+  background-color: #394549;
 }
 
 #left {
@@ -44,17 +45,24 @@ section {
   float: right;
   width: 33.33%;
   margin-bottom: 20px;
-  
+
 }
 
 #full {
+  margin: 20px;
 }
 
 #division {
+  background-color: #6ea3da;
 }
 
 aside {
+  background-color: #a6b747;
+  width: 400px;
+  height: 200px;
+  margin-top: 20px;
 }
 
 footer {
+  background-color: #FFA500;
 }
